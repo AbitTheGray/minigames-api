@@ -1,0 +1,6 @@
+database:
+  host: localhost
+  port: 3306
+  database: minigames
+  username: root
+  password: a2ZZSG5Krt6sujSf
